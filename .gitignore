@@ -1,0 +1,10 @@
+.claude/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.b64
+*.txt
+img_b64.json
+img_v2.json
+gws-lp.html
