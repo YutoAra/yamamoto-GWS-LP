@@ -8,3 +8,6 @@
 img_b64.json
 img_v2.json
 gws-lp.html
+
+# LPで使用するロゴ素材はバージョン管理する（上の画像除外の例外）
+!Googleロゴ関係/*
